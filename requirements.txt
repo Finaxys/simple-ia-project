@@ -4,3 +4,4 @@ llama-index-core==0.11.8
 llama-index-llms-openai==0.2.3
 llama-index-embeddings-openai==0.2.4
 llama-index-readers-file==0.2.1
+fastapi==0.114.1

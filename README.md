@@ -26,3 +26,8 @@ Run the tests
 ```bash
 python simple_model_api_test.py
 ```
+
+Start FastAPI server
+```bash
+fastapi dev .\simple_fast_api.py
+```
